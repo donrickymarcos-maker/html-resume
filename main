@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <title>My Website</title>
+    </head>
+    <body>
+        <h1>Welcome to my Website</h1>
+        <hr/>
+        <img src = "../4.0 File Paths/dog.png" alt = "a photo of a dog">
+        <hr/>
+        <p> This is the first project I have ever done. Please be nice.
+            I'll continue to improve this as time goes by, but I'll keep
+            it this way for a while until i learn how to do CSS.</p>
+        <hr/>
+        <h2>The things I will implement in the future:</h2>
+        <ol>
+            <li>Adding more photos</li>
+            <li>Webpages by using a href</li>
+            <li>etc.</li>
+        </ol>
+    </body>
+</html>
